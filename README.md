@@ -1,6 +1,6 @@
 ### Hi! Gabriel here. 👋🏼
 
-software engineer @ **software-mansion**
+software engineer @ **software-mansion** with 4 years of experience
 
 ### Technologies
 
